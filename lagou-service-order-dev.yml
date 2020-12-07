@@ -1,0 +1,14 @@
+server:
+  port: 9300
+
+student:
+  name:
+    zhangsan
+  age:
+    15
+
+teacher:
+   name:
+     lisi
+   age:
+     10
